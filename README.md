@@ -25,5 +25,5 @@ Ushbu repozitoriyada mening IT, Sun'iy intellekt va Dasturlash yo'nalishidagi se
 
 ## 📈 Maqsadlarim
 - [ ] Microsoft AI Product Manager Professional Certificate
-- [ ] IELTS 8.0 Level Proficiency
+- [ ] HIGH IELTS Level Proficiency
 - [ ] Yaponiya universitetlari uchun grant yutish
